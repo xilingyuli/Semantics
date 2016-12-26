@@ -1,0 +1,38 @@
+proc err(int e, int f);
+	int i;
+	real i;
+	real l;
+
+	int[2][3] j;
+	int k;
+	int 4a;
+	k = k + j;
+	k[1] = 1;
+	l = ~1..1abc;
+	k = k ( + k;
+	k = k + k );
+
+	call func();
+
+proc test(int i);
+	int j;
+	real[2][3] k;
+	i = 123;
+	k[0][1] = 0.111;
+	i = 0765;
+	i = 0xff;
+	k[0][1] = 3e3;
+	j = 100*i;
+	k[0][1] = 100;
+	
+	if i<j and i>0
+	then i = i + 1*j;
+	else i = j;
+
+	do
+	i = i+2;
+	j = j+1;
+	if i>1 then i = j+1;
+	while i < j
+
+	call err(1,2);
